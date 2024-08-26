@@ -3,7 +3,9 @@ When searching for a car, finding the best brand and model that fits your family
 ### -------------------------------------------------------------------------------------------------------
 ![Visual DashBoard](https://github.com/user-attachments/assets/19417a81-fe8f-46f5-a29b-6df7ab142ee5)
 ### -------------------------------------------------------------------------------------------------------
-### **Note:** For Enhanced Visuals and a more Interactive Experience, please open the ".xlsx" file.
+### Note:
+### 1) For Enhanced Visuals and a more Interactive Experience, please open the ".xlsx" file.
+### 2) I have created a separate sheet for each chart to interact with.
 ### -------------------------------------------------------------------------------------------------------
 ### Introduction
 The "Buy Your First Ride Dashboard" provides an in-depth analysis of various factors influencing the purchase of cars over the years. It presents a comprehensive view of trends in transmission types by brand, owner distance by brand, car pricing by seats, and other essential metrics that guide first-time car buyers. The dashboard is segmented into different visualizations, each targeting a specific aspect of car purchasing behaviour from 1994 to 2020.
